@@ -1,0 +1,6 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "editor.wordWrap": "on",
+  "editor.wordWrapColumn": 80,
+  "files.eol": "\n"
+}
